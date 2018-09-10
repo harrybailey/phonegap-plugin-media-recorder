@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/phonegap/phonegap-plugin-media-recorder"
+    "url": "git+https://github.com/harrybailey/phonegap-plugin-media-recorder.git"
   },
   "bugs": {
-    "url": "https://github.com/phonegap/phonegap-plugin-media-recorder/issues"
+    "url": "https://github.com/harrybailey/phonegap-plugin-media-recorder/issues"
   },
   "keywords": [
     "cordova",
